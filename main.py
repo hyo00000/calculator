@@ -14,3 +14,4 @@ if __name__ == '__main__':
     app = QApplication(sys.argv)
     ex = Calculator()
     sys.exit(app.exec_())
+    #하하하 개발 끝
